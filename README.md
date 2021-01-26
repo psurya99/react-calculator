@@ -9,11 +9,13 @@
 
 Run Project
 ------------------------------
-* run command ``git clone https://github.com/psurya99/react-calculator``
+* ``git clone https://github.com/psurya99/react-calculator``
 * ``cd project folder``
 * ``run npm start``
 * ``open app in browser using url http://localhost:8000``
 *  `` To build the project in production npm run build``
+* `` production url will be soon "https://app-calculator-react.herokuapp.com/"``
+
 
 ## Environment 
 
