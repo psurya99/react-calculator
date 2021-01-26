@@ -1,4 +1,19 @@
-# React: Calculator
+# React: Calculator #Developed By Surya.
+
+* ``React 16.13.1``
+* ``Es6``
+* ``NPM``
+* ``Node``
+* ``CSS3``
+* ``Java Script``
+
+Run Project
+------------------------------
+* run command ``git clone https://github.com/psurya99/react-calculator``
+* ``cd project folder``
+* ``run npm start``
+* ``open app in browser using url http://localhost:8000``
+*  `` To build the project in production npm run build``
 
 ## Environment 
 
@@ -79,4 +94,4 @@ bash bin/env_setup && . $HOME/.nvm/nvm.sh && npm install
 ```bash
 bash bin/env_setup && . $HOME/.nvm/nvm.sh && npm test
 ```
-# react-calculator
+# react-calculator -surya
